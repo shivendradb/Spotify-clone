@@ -1,0 +1,28 @@
+.containerSmall {
+  display: flex;
+  flex: 0.6;
+  align-items: center;
+  background: linear-gradient(#3c3166, #3e385a);
+  width: 220px;
+  border-radius: 5px;
+  box-shadow: #47415d;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.containerSmall > img {
+  flex: 0.4;
+  min-height: 65px;
+  max-width: 65px;
+  object-fit: contain;
+  background-color: black;
+}
+
+.containerSmall > p {
+  flex: 0.7;
+  font-weight: 650;
+  padding: 10px;
+  box-shadow: black;
+  font-size: 12px;
+  object-fit: contain;
+}
