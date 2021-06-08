@@ -15,7 +15,7 @@ This project is a clone of the Spotify website. You may visit the site through t
 # Home Page
 
 <p align="center">
-<img src="./public/spotify-2.jpg" height=400px>
+<img src="./public/spotify-2.jpg" height=500px>
 </p>
 
 <br />
