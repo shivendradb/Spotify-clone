@@ -1,6 +1,6 @@
 # Spotify Clone
 
-This project is a clone of the Spotify website. You may visit the site through the link https://spotify-clone-012.netlify.app
+This project is a clone of the Spotify website. You may visit the site through the link [https://spotify-clone-012.netlify.app](https://spotify-clone-012.netlify.app)
 
 # Project Screenshots
 
@@ -29,9 +29,9 @@ This project is a clone of the Spotify website. You may visit the site through t
 3. Spotify API for authentication and user data fetching
 4. Netlify for deployment
 
-Icons from Material UI library have been used. Link is https://material-ui.com/components/material-icons
+Icons from Material UI library have been used. Link is [https://material-ui.com/components/material-icons](https://material-ui.com/components/material-icons)
 
-Spotify Web API has been used for User authentication and to fetch the playlists data of the user. The link for their library is https://developer.spotify.com/documentation/web-api/reference
+Spotify Web API has been used for User authentication and to fetch the playlists data of the user. The link for their library is [https://developer.spotify.com/documentation/web-api/reference](https://developer.spotify.com/documentation/web-api/reference)
 
 You can run the below commands to see the project on your local system.
 
@@ -45,7 +45,7 @@ Disclaimer: Use the package manager you have on your system. Run either: npm or 
 
 Download the zip file from the above "Code" option, \
  or, \
-Clone this repository by running the command "git clone https://github.com/shivendradb/Spotify-clone.git" on the command prompt on your machine. \
+Clone this repository by running the command "git clone [https://github.com/shivendradb/Spotify-clone.git](https://github.com/shivendradb/Spotify-clone.git)" on the command prompt on your machine. \
 Now, open the project directory using "cd Spotify-clone" command.
 
 ### Step - 2
@@ -58,7 +58,7 @@ Run the project on the localhost by running "npm start" on the command prompt.
 
 Great!! 😃 You are done with the setup part. 🚀
 
-Now, open http://localhost:3000 to view it in your browser.
+Now, open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 <br />
 
